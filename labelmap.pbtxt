@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'sunglasses'
+}
+item {
+    id: 2
+    name: 'eyeware'
+}
