@@ -230,7 +230,7 @@ tblib==1.6.0
 tecombine==0.2.3.0
 tellurium==2.1.5
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.7.2
 tensorflow-estimator==1.14.0
 tenuml==1.1.1.2
 termcolor==1.1.0
